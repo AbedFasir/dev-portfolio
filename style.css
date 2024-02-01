@@ -46,3 +46,11 @@ a {
    background-repeat: no-repeat;
    background-position: right;
 }
+.eh {
+   width: 35%;
+   padding-left: 0;
+}
+
+img {
+   margin-top: 50px;
+}
