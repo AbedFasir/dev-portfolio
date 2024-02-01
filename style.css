@@ -15,6 +15,7 @@ h1 {
    display: flex;
    background-image: url(Images/top-banner.png);
    background-repeat: no-repeat;
+   margin-bottom: 120px;
 }
 
 .half-width {
@@ -23,7 +24,7 @@ h1 {
 }
 
 .half-width img {
-   width: 80%;
+   width: 70%;
 }
 
 p {
@@ -37,4 +38,11 @@ a {
    padding: 10px 30px;
    border-radius: 5px;
    color: white;
+}
+
+.mid-section {
+   display: flex;
+   background-image: url(Images/dream-bg.png);
+   background-repeat: no-repeat;
+   background-position: right;
 }
